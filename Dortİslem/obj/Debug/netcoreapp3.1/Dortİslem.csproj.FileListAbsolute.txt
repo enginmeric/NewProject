@@ -1,0 +1,13 @@
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.exe
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.deps.json
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.runtimeconfig.json
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.runtimeconfig.dev.json
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.dll
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\bin\Debug\netcoreapp3.1\Dortİslem.pdb
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.AssemblyInfoInputs.cache
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.AssemblyInfo.cs
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.dll
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.pdb
+C:\Users\engin\source\repos\Dortİslem\Dortİslem\obj\Debug\netcoreapp3.1\Dortİslem.genruntimeconfig.cache
